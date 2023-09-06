@@ -559,7 +559,7 @@ Get information of a port::
 
 Install port, e.g with GRASS GIS::
 
-  sudo port install qgis3 +grass
+  sudo port install qgis3 + grass
 
 Update::
 
